@@ -1,2 +1,2 @@
-# BootStrapping
-BootStrap_Tutorial
+# BootStrapping_Practice
+BootStrap_Practice
